@@ -1,14 +1,15 @@
 SoWhereTo Solutions 🧹✨
-
-
+__________________________________________________
 SoWhereTo Solutions is a cleaning services website I created for a cleaning business called SoWhereTo Solutions.
 
 The purpose of the website is to give the business an online presence where potential customers can learn more about the cleaning services offered and get information about the business.
-
+_____________________________________________________________________________________________
 Technologies Used
 HTML5 – Used to create the structure and content of the website.
 CSS3 – Used to style the website, including the layout, colours, fonts, and overall appearance.
 Features
+JavaScript – Used for small interactive features and functionality on the website.
+
 Clean and simple website design
 Home section introducing the business
 Cleaning services information

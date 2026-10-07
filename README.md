@@ -1,5 +1,5 @@
 SoWhereTo Solutions 🧹✨
-About the Project
+
 
 SoWhereTo Solutions is a cleaning services website I created for a cleaning business called SoWhereTo Solutions.
 
